@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to use Git and GitHub for version control.
 - 🌱 I’m currently learning learning Java, MySQL, and building mini CRUD applications.
 - 💞️ I’m looking to collaborate on beginner-friendly Java or web development projects.
-- 📫 How to reach me nguyenketri1803@gmail.com
+- 📫  How to reach me: [GitHub Profile](https://github.com/nguyenketri/nguyenketri)
 - 😄 My dream: become a good developer
 - ⚡ Fun fact: I enjoy building things from scratch and seeing how code turns into real apps!
 
