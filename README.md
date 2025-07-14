@@ -12,7 +12,7 @@
 📫 How to reach me
 - Phone Number: 0356116856
 - Email: (nguyenketri1803@gmail.com)
-- GitHub: (https://github.com/nguyenketri/nguyenketri)
+- GitHub: (https://github.com/nguyenketri)
 - 😄 My dream: become a good developer
 - ⚡ Fun fact: I enjoy building things from scratch and seeing how code turns into real apps!
 
